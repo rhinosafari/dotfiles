@@ -26,6 +26,8 @@ export DOCKER_HOST=tcp://192.168.59.103:2376
 export DOCKER_CERT_PATH=/Users/koco/.boot2docker/certs/boot2docker-vm
 export DOCKER_TLS_VERIFY=1
 
+export HOMEBREW_GITHUB_API_TOKEN=73c34b0cabd952053a29574af08fbb8ccb5076e1
+
 export GOPATH=$HOME/golang
 export GOROOT=/usr/local/opt/go/libexec
 export PATH=$PATH:$GOPATH/bin
